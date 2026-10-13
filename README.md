@@ -1,3 +1,4 @@
+
 # Hi 👋, I'm Anand Chavan
 
 <h3 align="center">A passionate Full Stack Developer from Maharashtra, India</h3>
@@ -5,7 +6,9 @@
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="380" align="right" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chavananand522&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/chavananand522" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=chavananand522&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+  </a>
 </p>
 
 - 🌱 I’m currently learning **SQL**
