@@ -73,10 +73,10 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavananand522&layout=compact&langs_count=8&theme=default" alt="Most Used Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavananand522&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" alt="Most Used Languages" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&theme=default&rank_icon=github" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="GitHub Stats" width="100%" />
       </td>
     </tr>
   </table>
@@ -85,5 +85,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chavananand522&theme=default" alt="GitHub Streak Stats" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chavananand522&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=true" alt="GitHub Streak Stats" width="100%" />
 </div>
