@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **SQL**
 - 💬 Ask me about **HTML, CSS & Bootstrap**
-- 📫 How to reach me: **chavananand522@gmail.com**
+- 📫 How to reach me: **chavanan522@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anand-chavan-65" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/_anand_02__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_anand_02__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://instagram.com/_anand_02__" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="mailto:chavanan522@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40" /></a>
+<a href="https://github.com/chavananand522" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,8 +30,14 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chavananand522&show_icons=true&locale=en&layout=compact" alt="chavananand522" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chavananand522&show_icons=true&locale=en&layout=compact" alt="chavananand522" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&locale=en" alt="chavananand522" /></p>
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&locale=en" alt="chavananand522" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chavananand522" alt="chavananand522" /></p>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chavananand522" alt="chavananand522" />
+</p>
