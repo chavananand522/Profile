@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Full Stack Developer from Maharashtra, India</h3>
 
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="400" align="right" />
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="380" align="right" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=chavananand522&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -67,16 +67,23 @@
 
 ---
 
-### GitHub Stats:
+### GitHub Statistics:
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chavananand522&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavananand522&layout=compact&langs_count=8&theme=default" alt="Most Used Languages" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&theme=default&rank_icon=github" alt="GitHub Stats" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<br/>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chavananand522" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chavananand522&theme=default" alt="GitHub Streak Stats" width="100%" />
+</div>
