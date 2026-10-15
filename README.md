@@ -92,6 +92,6 @@
 
 <div align="center">
   <a href="https://github.com/chavananand522" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chavananand522&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=true" alt="GitHub Streak Stats" width="100%" />
+    <img src="https://streak-stats.demolab.com/?user=chavananand522&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=true" alt="GitHub Streak Stats" width="100%" />
   </a>
 </div>
