@@ -81,7 +81,7 @@
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/chavananand522" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="GitHub Stats" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="GitHub Stats - All Time Commits" width="100%" />
         </a>
       </td>
     </tr>
