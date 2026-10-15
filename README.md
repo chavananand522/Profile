@@ -76,12 +76,12 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/chavananand522?tab=repositories" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavananand522&layout=compact&langs_count=8&size_weight=1&count_weight=0&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&border_color=30363d&cache_seconds=1800" alt="Most Used Languages - All Repositories" width="100%"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavananand522&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&cache_seconds=21600" alt="Most Used Languages" width="100%"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/chavananand522?tab=repositories" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=false&border_color=30363d&cache_seconds=1800" alt="GitHub Statistics - All-Time Commits" width="100%"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&rank_icon=github&include_all_commits=true&show=prs_merged,prs_merged_percentage&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&cache_seconds=21600" alt="GitHub Statistics" width="100%"/>
         </a>
       </td>
     </tr>
@@ -92,17 +92,6 @@
 
 <div align="center">
   <a href="https://github.com/chavananand522" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=chavananand522&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=false&border=30363d" alt="GitHub Contribution Streak" width="100%"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/chavananand522?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-All%20Repositories-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
-  </a>
-  <a href="https://github.com/chavananand522?tab=overview&from=2024-01-01&to=2026-12-31">
-    <img src="https://img.shields.io/badge/View-GitHub%20Activity-238636?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Activity"/>
+    <img src="https://streak-stats.demolab.com/?user=chavananand522&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d" alt="GitHub Contribution Streak" width="100%"/>
   </a>
 </div>
