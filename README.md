@@ -81,7 +81,7 @@
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/chavananand522?tab=repositories" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&cache_seconds=21600&v=1" alt="GitHub Statistics" width="100%"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&rank_icon=github&show=prs_merged,prs_merged_percentage&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&cache_seconds=21600&v=2" alt="GitHub Statistics" width="100%"/>
         </a>
       </td>
     </tr>
