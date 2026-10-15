@@ -8,9 +8,6 @@
   <a href="https://github.com/chavananand522" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=chavananand522&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge&abbreviated=true" alt="Profile Views" />
   </a>
-  <a href="https://github.com/chavananand522?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW%20GITHUB%20STATS-Click%20Here-0d1117?style=for-the-badge&logo=github" alt="View GitHub Statistics" />
-  </a>
 </p>
 
 - 🌱 I’m currently learning **SQL**
@@ -79,12 +76,12 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/chavananand522?tab=repositories" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavananand522&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&disable_animations=true" alt="Most Used Languages" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavananand522&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" alt="Most Used Languages" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/chavananand522" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&disable_animations=true" alt="GitHub Stats" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="GitHub Stats" width="100%" />
         </a>
       </td>
     </tr>
