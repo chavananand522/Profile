@@ -76,12 +76,12 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/chavananand522?tab=repositories" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavananand522&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&cache_seconds=21600" alt="Most Used Languages" width="100%"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavananand522&layout=compact&langs_count=8&size_weight=1&count_weight=0&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&cache_seconds=21600" alt="Most Used Languages" width="100%"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/chavananand522?tab=repositories" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&rank_icon=github&include_all_commits=true&show=prs_merged,prs_merged_percentage&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&cache_seconds=21600" alt="GitHub Statistics" width="100%"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&rank_icon=github&count_private=true&show=prs_merged,prs_merged_percentage&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&cache_seconds=21600" alt="GitHub Statistics" width="100%"/>
         </a>
       </td>
     </tr>
