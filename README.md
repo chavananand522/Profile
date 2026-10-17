@@ -10,8 +10,9 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **SQL**
-- 💬 Ask me about **HTML, CSS & Bootstrap**
+- 🌱 I’m currently learning **Java & SQL**
+- 💬 Ask me about **Java, Spring Boot, HTML, CSS, Bootstrap & JavaScript**
+- 🚀 Building projects and improving my Full Stack Development skills
 - 📫 Email: **chavananand522@gmail.com**
 
 ---
