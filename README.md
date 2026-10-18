@@ -43,33 +43,33 @@
 ### 🚀 My Projects
 
 <p align="center">
-  <a href="https://github.com/chavananand522/PIZZA-CASE-STUDY"><img width="350" src="assets/projects/pizza-case-study.svg" alt="PIZZA-CASE-STUDY" /></a>
+  <a href="https://github.com/chavananand522/PIZZA-CASE-STUDY"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=PIZZA-CASE-STUDY&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Pizza Case Study" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/chavananand522/Arithmetic-Menu-Driven-Application"><img width="350" src="assets/projects/arithmetic-menu-driven-application.svg" alt="Arithmetic-Menu-Driven-Application" /></a>
+  <a href="https://github.com/chavananand522/Arithmetic-Menu-Driven-Application"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Arithmetic-Menu-Driven-Application&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Arithmetic Menu Driven Application" /></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/chavananand522/Currency-Converter"><img width="350" src="assets/projects/currency-converter.svg" alt="Currency-Converter" /></a>
+  <a href="https://github.com/chavananand522/Currency-Converter"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Currency-Converter&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Currency Converter" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/chavananand522/GitHub-Profile-Card"><img width="350" src="assets/projects/github-profile-card.svg" alt="GitHub-Profile-Card" /></a>
+  <a href="https://github.com/chavananand522/GitHub-Profile-Card"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=GitHub-Profile-Card&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="GitHub Profile Card" /></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/chavananand522/Edusity--Education-Website"><img width="350" src="assets/projects/edusity-education-website.svg" alt="Edusity--Education-Website" /></a>
+  <a href="https://github.com/chavananand522/Edusity--Education-Website"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Edusity--Education-Website&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Edusity Education Website" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/chavananand522/Student-Management-System"><img width="350" src="assets/projects/student-management-system.svg" alt="Student-Management-System" /></a>
+  <a href="https://github.com/chavananand522/Student-Management-System"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Student-Management-System&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Student Management System" /></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/chavananand522/Student-Grade-Calculator"><img width="350" src="assets/projects/student-grade-calculator.svg" alt="Student-Grade-Calculator" /></a>
+  <a href="https://github.com/chavananand522/Student-Grade-Calculator"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Student-Grade-Calculator&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Student Grade Calculator" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/chavananand522/ATM-Simulation-System"><img width="350" src="assets/projects/atm-simulation-system.svg" alt="ATM-Simulation-System" /></a>
+  <a href="https://github.com/chavananand522/ATM-Simulation-System"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=ATM-Simulation-System&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="ATM Simulation System" /></a>
 </p>
 
 ---
