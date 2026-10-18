@@ -8,14 +8,12 @@
   <a href="https://github.com/chavananand522">
     <img src="https://komarev.com/ghpvc/?username=chavananand522&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/chavananand522?tab=followers">
-    <img src="https://img.shields.io/github/followers/chavananand522?label=Followers&style=for-the-badge&color=58a6ff" alt="GitHub Followers"/>
-  </a>
 </p>
 
-- 🌱 I’m currently learning **SQL**
-- 💬 Ask me about **HTML, CSS & Bootstrap**
-- 📫 Email: **chavananand522@gmail.com**
+- 🌱 I’m currently learning **React**
+- 💬 Ask me about **HTML, CSS, Bootstrap, SQL, Java & JavaScript**
+- 💻 I build **real-world projects** using Java, Spring Boot, MySQL and web technologies
+- 📫 Email: **[chavananand522@gmail.com](mailto:chavananand522@gmail.com)**
 
 ---
 
@@ -56,14 +54,41 @@
 
 ---
 
-### GitHub Statistics:
+### 🚀 Real-World Projects:
+
+**1. Student Management System**
+
+- Developed a web-based application to manage students, courses and enrollments.
+- Implemented CRUD operations, search functionality and database integration.
+- Built using **Java, Spring Boot, Spring Data JPA, MySQL, Thymeleaf and Bootstrap**.
+- Includes admin and student portal features.
+
+🔗 [View Project on GitHub](https://github.com/chavananand522/Student-Management-System)
+
+**2. ATM Simulation System**
+
+- Developed a Java-based ATM simulation with PIN authentication and balance management.
+- Implemented deposits, withdrawals and transaction tracking.
+
+🔗 [View Project on GitHub](https://github.com/chavananand522/ATM-Simulation-System)
+
+**3. Student Grade Calculator**
+
+- Created a calculator to enter subject marks and determine pass or fail status.
+- Built using **HTML, CSS and JavaScript**.
+
+🔗 [View Project on GitHub](https://github.com/chavananand522/Student-Grade-Calculator)
+
+---
+
+### 📊 GitHub Statistics:
 
 <div align="center">
   <a href="https://github.com/chavananand522">
-    <img src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics" width="49%"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true" alt="GitHub Statistics"/>
   </a>
   <a href="https://github.com/chavananand522">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavananand522&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" width="49%"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavananand522&layout=compact&theme=github_dark&hide_border=false&langs_count=8" alt="Most Used Languages"/>
   </a>
 </div>
 
@@ -71,17 +96,7 @@
 
 <div align="center">
   <a href="https://github.com/chavananand522">
-    <img src="https://streak-stats.demolab.com/?user=chavananand522&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d" alt="GitHub Contribution Streak" width="100%"/>
-  </a>
-</div>
-
----
-
-### Contribution Activity:
-
-<div align="center">
-  <a href="https://github.com/chavananand522">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chavananand522&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Activity" width="100%"/>
+    <img width="90%" src="https://streak-stats.demolab.com/?user=chavananand522&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d" alt="GitHub Contribution Streak"/>
   </a>
 </div>
 
