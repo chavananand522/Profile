@@ -1,4 +1,3 @@
-
 # Hi, I'm Anand Chavan 👋
 
 <img align="right" alt="Coding Animation" width="300" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
@@ -43,46 +42,64 @@
 
 ### 🚀 My Projects
 
-<p align="center">
-  <a href="https://github.com/chavananand522/PIZZA-CASE-STUDY"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=PIZZA-CASE-STUDY&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Pizza Case Study" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/chavananand522/Arithmetic-Menu-Driven-Application"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Arithmetic-Menu-Driven-Application&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Arithmetic Menu Driven Application" /></a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/chavananand522/Currency-Converter"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Currency-Converter&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Currency Converter" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/chavananand522/GitHub-Profile-Card"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=GitHub-Profile-Card&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="GitHub Profile Card" /></a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/chavananand522/Edusity--Education-Website"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Edusity--Education-Website&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Edusity Education Website" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/chavananand522/Student-Management-System"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Student-Management-System&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Student Management System" /></a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/chavananand522/Student-Grade-Calculator"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Student-Grade-Calculator&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Student Grade Calculator" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/chavananand522/ATM-Simulation-System"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=ATM-Simulation-System&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="ATM Simulation System" /></a>
-</p>
-
-| Project | Description |
-| ---------------------------------- | ------------------------------------------ |
-| [PIZZA-CASE-STUDY](https://github.com/chavananand522/PIZZA-CASE-STUDY) | Practice project on pizza ordering |
-| [Arithmetic-Menu-Driven-Application](https://github.com/chavananand522/Arithmetic-Menu-Driven-Application) | Menu-driven app for arithmetic operations |
-| [Currency-Converter](https://github.com/chavananand522/Currency-Converter) | Converts amounts between currencies |
-| [GitHub-Profile-Card](https://github.com/chavananand522/GitHub-Profile-Card) | Profile card showcasing GitHub information |
-| [Edusity--Education-Website](https://github.com/chavananand522/Edusity--Education-Website) | Education website built with React |
-| [Student-Management-System](https://github.com/chavananand522/Student-Management-System) | Spring Boot student and course management |
-| [Student-Grade-Calculator](https://github.com/chavananand522/Student-Grade-Calculator) | Calculates student grades from marks |
-| [ATM-Simulation-System](https://github.com/chavananand522/ATM-Simulation-System) | Java-based ATM simulation |
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      📁 <a href="https://github.com/chavananand522/PIZZA-CASE-STUDY"><b>PIZZA-CASE-STUDY</b></a>
+      <br/><br/>
+      Practice project on pizza ordering
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      📁 <a href="https://github.com/chavananand522/Arithmetic-Menu-Driven-Application"><b>Arithmetic-Menu-Driven-Application</b></a>
+      <br/><br/>
+      Menu-driven app for arithmetic operations
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      📁 <a href="https://github.com/chavananand522/Currency-Converter"><b>Currency-Converter</b></a>
+      <br/><br/>
+      Converts amounts between currencies
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      📁 <a href="https://github.com/chavananand522/GitHub-Profile-Card"><b>GitHub-Profile-Card</b></a>
+      <br/><br/>
+      Profile card showcasing GitHub information
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      📁 <a href="https://github.com/chavananand522/Edusity--Education-Website"><b>Edusity--Education-Website</b></a>
+      <br/><br/>
+      Education website built with React
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      📁 <a href="https://github.com/chavananand522/Student-Management-System"><b>Student-Management-System</b></a>
+      <br/><br/>
+      Spring Boot student and course management
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      📁 <a href="https://github.com/chavananand522/Student-Grade-Calculator"><b>Student-Grade-Calculator</b></a>
+      <br/><br/>
+      Calculates student grades from marks
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      📁 <a href="https://github.com/chavananand522/ATM-Simulation-System"><b>ATM-Simulation-System</b></a>
+      <br/><br/>
+      Java-based ATM simulation
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
