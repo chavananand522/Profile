@@ -47,67 +47,56 @@
     <td width="50%" valign="top">
       <h4>🌐 <a href="https://anandsgithub.netlify.app/">GitHub Profile Card</a></h4>
       <p>A profile card showcasing GitHub information</p>
-      <a href="https://anandsgithub.netlify.app/"><b>View Project →</b></a>
     </td>
     <td width="50%" valign="top">
       <h4>🎓 <a href="https://github.com/chavananand522/Student-Management-System">Student Management System</a></h4>
       <p>Student, course and enrollment management using Spring Boot</p>
-      <a href="https://github.com/chavananand522/Student-Management-System"><b>View Project →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🏧 <a href="https://github.com/chavananand522/ATM-Simulation-System">ATM Simulation System</a></h4>
       <p>Java-based ATM simulation</p>
-      <a href="https://github.com/chavananand522/ATM-Simulation-System"><b>View Project →</b></a>
     </td>
     <td width="50%" valign="top">
       <h4>📝 <a href="https://github.com/chavananand522/Student-Grade-Calculator">Student Grade Calculator</a></h4>
       <p>Calculates student grades using subject marks</p>
-      <a href="https://github.com/chavananand522/Student-Grade-Calculator"><b>View Project →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>⚡ <a href="https://github.com/chavananand522/JavaScript-Revision">JavaScript Revision</a></h4>
       <p>JavaScript concepts and practice examples</p>
-      <a href="https://github.com/chavananand522/JavaScript-Revision"><b>View Project →</b></a>
     </td>
     <td width="50%" valign="top">
       <h4>☕ <a href="https://github.com/chavananand522/Java-Revision">Java Revision</a></h4>
       <p>Core Java concepts and examples</p>
-      <a href="https://github.com/chavananand522/Java-Revision"><b>View Project →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>💱 <a href="https://github.com/chavananand522?tab=repositories">Currency Converter</a></h4>
       <p>Currency conversion project</p>
-      <a href="https://github.com/chavananand522?tab=repositories"><b>View Project →</b></a>
     </td>
     <td width="50%" valign="top">
       <h4>🧮 <a href="https://github.com/chavananand522?tab=repositories">Arithmetic Calculator</a></h4>
       <p>Arithmetic operations using programming</p>
-      <a href="https://github.com/chavananand522?tab=repositories"><b>View Project →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>📋 <a href="https://github.com/chavananand522?tab=repositories">Menu-Driven Program</a></h4>
       <p>Menu-based programming project</p>
-      <a href="https://github.com/chavananand522?tab=repositories"><b>View Project →</b></a>
     </td>
     <td width="50%" valign="top">
       <h4>🍕 <a href="https://github.com/chavananand522?tab=repositories">Pizza Case Study</a></h4>
       <p>Practice project based on a pizza ordering scenario</p>
-      <a href="https://github.com/chavananand522?tab=repositories"><b>View Project →</b></a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
       <h4>🎓 <a href="https://github.com/chavananand522/React-Js">Edusity</a></h4>
       <p>Education website built with React</p>
-      <a href="https://github.com/chavananand522/React-Js"><b>View Project →</b></a>
     </td>
   </tr>
 </table>
@@ -130,10 +119,6 @@
 
 <p align="center">
   <img width="80%" src="https://streak-stats.demolab.com/?user=chavananand522&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Consistency+is+the+key+to+growth;Keep+Coding+%7C+Keep+Learning;Every+day+is+a+new+opportunity!" alt="Animated Coding Motivation" />
 </p>
 
 ---
