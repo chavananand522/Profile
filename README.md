@@ -42,48 +42,35 @@
 
 ### 🚀 My Projects
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🍕 <a href="https://github.com/chavananand522/PIZZA-CASE-STUDY">PIZZA-CASE-STUDY</a></h4>
-      <p>Practice project on pizza ordering</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧮 <a href="https://github.com/chavananand522/Arithmetic-Menu-Driven-Application">Arithmetic-Menu-Driven-Application</a></h4>
-      <p>Menu-driven app for arithmetic operations</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💱 <a href="https://github.com/chavananand522/Currency-Converter">Currency-Converter</a></h4>
-      <p>Converts amounts between currencies</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/chavananand522/GitHub-Profile-Card">GitHub-Profile-Card</a></h4>
-      <p>Profile card showcasing GitHub information</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 <a href="https://github.com/chavananand522/Edusity--Education-Website">Edusity--Education-Website</a></h4>
-      <p>Education website built with React</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏫 <a href="https://github.com/chavananand522/Student-Management-System">Student-Management-System</a></h4>
-      <p>Spring Boot student and course management</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📝 <a href="https://github.com/chavananand522/Student-Grade-Calculator">Student-Grade-Calculator</a></h4>
-      <p>Calculates student grades from marks</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏧 <a href="https://github.com/chavananand522/ATM-Simulation-System">ATM-Simulation-System</a></h4>
-      <p>Java-based ATM simulation</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/chavananand522/PIZZA-CASE-STUDY"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=PIZZA-CASE-STUDY&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Pizza Case Study" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/chavananand522/Arithmetic-Menu-Driven-Application"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Arithmetic-Menu-Driven-Application&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Arithmetic Menu Driven Application" /></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/chavananand522/Currency-Converter"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Currency-Converter&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Currency Converter" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/chavananand522/GitHub-Profile-Card"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=GitHub-Profile-Card&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="GitHub Profile Card" /></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/chavananand522/Edusity--Education-Website"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Edusity--Education-Website&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Edusity Education Website" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/chavananand522/Student-Management-System"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Student-Management-System&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Student Management System" /></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/chavananand522/Student-Grade-Calculator"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Student-Grade-Calculator&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="Student Grade Calculator" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/chavananand522/ATM-Simulation-System"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=ATM-Simulation-System&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="ATM Simulation System" /></a>
+</p>
 
 ---
 
