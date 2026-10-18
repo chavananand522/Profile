@@ -44,59 +44,75 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 <a href="https://anandsgithub.netlify.app/">GitHub Profile Card</a></h4>
-      <p>A profile card showcasing GitHub information</p>
+    <td width="50%" align="center">
+      <!-- Change repo name if different -->
+      <a href="https://github.com/chavananand522/GitHub-Profile-Card">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=GitHub-Profile-Card&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="GitHub Profile Card" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h4>🎓 <a href="https://github.com/chavananand522/Student-Management-System">Student Management System</a></h4>
-      <p>Student, course and enrollment management using Spring Boot</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏧 <a href="https://github.com/chavananand522/ATM-Simulation-System">ATM Simulation System</a></h4>
-      <p>Java-based ATM simulation</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📝 <a href="https://github.com/chavananand522/Student-Grade-Calculator">Student Grade Calculator</a></h4>
-      <p>Calculates student grades using subject marks</p>
+    <td width="50%" align="center">
+      <a href="https://github.com/chavananand522/Student-Management-System">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Student-Management-System&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Student Management System" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/chavananand522/JavaScript-Revision">JavaScript Revision</a></h4>
-      <p>JavaScript concepts and practice examples</p>
+    <td width="50%" align="center">
+      <a href="https://github.com/chavananand522/ATM-Simulation-System">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=ATM-Simulation-System&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="ATM Simulation System" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h4>☕ <a href="https://github.com/chavananand522/Java-Revision">Java Revision</a></h4>
-      <p>Core Java concepts and examples</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💱 <a href="https://github.com/chavananand522?tab=repositories">Currency Converter</a></h4>
-      <p>Currency conversion project</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧮 <a href="https://github.com/chavananand522?tab=repositories">Arithmetic Calculator</a></h4>
-      <p>Arithmetic operations using programming</p>
+    <td width="50%" align="center">
+      <a href="https://github.com/chavananand522/Student-Grade-Calculator">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Student-Grade-Calculator&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Student Grade Calculator" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>📋 <a href="https://github.com/chavananand522?tab=repositories">Menu-Driven Program</a></h4>
-      <p>Menu-based programming project</p>
+    <td width="50%" align="center">
+      <a href="https://github.com/chavananand522/JavaScript-Revision">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=JavaScript-Revision&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="JavaScript Revision" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h4>🍕 <a href="https://github.com/chavananand522?tab=repositories">Pizza Case Study</a></h4>
-      <p>Practice project based on a pizza ordering scenario</p>
+    <td width="50%" align="center">
+      <a href="https://github.com/chavananand522/Java-Revision">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Java-Revision&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Java Revision" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
-      <h4>🎓 <a href="https://github.com/chavananand522/React-Js">Edusity</a></h4>
-      <p>Education website built with React</p>
+    <td width="50%" align="center">
+      <!-- Change repo name if different -->
+      <a href="https://github.com/chavananand522/Currency-Converter">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Currency-Converter&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Currency Converter" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <!-- Change repo name if different -->
+      <a href="https://github.com/chavananand522/Arithmetic-Calculator">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Arithmetic-Calculator&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Arithmetic Calculator" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <!-- Change repo name if different -->
+      <a href="https://github.com/chavananand522/Menu-Driven-Program">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Menu-Driven-Program&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Menu-Driven Program" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <!-- Change repo name if different -->
+      <a href="https://github.com/chavananand522/Pizza-Case-Study">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Pizza-Case-Study&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Pizza Case Study" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/chavananand522/React-Js">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=React-Js&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Edusity" />
+      </a>
     </td>
   </tr>
 </table>
