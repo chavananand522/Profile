@@ -22,19 +22,19 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="https://instagram.com/_anand_02__">
+  <a href="https://instagram.com/_anand_02__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" height="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/anand-chavan-655793321/">
+  <a href="https://www.linkedin.com/in/anand-chavan-655793321/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
-  <a href="https://www.snapchat.com/add/anandchavan522">
+  <a href="https://www.snapchat.com/add/anandchavan522" target="_blank">
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=black" alt="Snapchat" height="30"/>
   </a>
   <a href="mailto:chavananand522@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" alt="Gmail" height="30"/>
   </a>
-  <a href="https://github.com/chavananand522">
+  <a href="https://github.com/chavananand522" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" alt="GitHub" height="30"/>
   </a>
 </p>
@@ -44,45 +44,57 @@
 ### Languages and Tools:
 
 <p align="left">
-  <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3.org/Style/CSS/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://html.spec.whatwg.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://html.spec.whatwg.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-### GitHub Statistics:
+### 📊 GitHub Statistics:
 
 <div align="center">
+
   <a href="https://github.com/chavananand522">
-    <img src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics" width="49%"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=chavananand522&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="GitHub Statistics"/>
   </a>
   <a href="https://github.com/chavananand522">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavananand522&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" width="49%"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavananand522&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Most Used Languages"/>
   </a>
-</div>
 
-<br/>
+  <br/><br/>
 
-<div align="center">
   <a href="https://github.com/chavananand522">
-    <img src="https://streak-stats.demolab.com/?user=chavananand522&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d" alt="GitHub Contribution Streak" width="100%"/>
+    <img width="90%" src="https://streak-stats.demolab.com/?user=chavananand522&theme=tokyonight&hide_border=false" alt="GitHub Contribution Streak"/>
   </a>
-</div>
 
----
+  <br/><br/>
 
-### Contribution Activity:
-
-<div align="center">
   <a href="https://github.com/chavananand522">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chavananand522&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Activity" width="100%"/>
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=chavananand522&theme=tokyo-night&hide_border=false" alt="GitHub Contribution Activity"/>
   </a>
+
 </div>
 
 ---
