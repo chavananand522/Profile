@@ -45,58 +45,42 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      📁 <a href="https://github.com/chavananand522/PIZZA-CASE-STUDY"><b>PIZZA-CASE-STUDY</b></a>
-      <br/><br/>
-      Practice project on pizza ordering
-      <br/><br/>
+      <h4>🍕 <a href="https://github.com/chavananand522/PIZZA-CASE-STUDY">PIZZA-CASE-STUDY</a></h4>
+      <p>Practice project on pizza ordering</p>
     </td>
     <td width="50%" valign="top">
-      📁 <a href="https://github.com/chavananand522/Arithmetic-Menu-Driven-Application"><b>Arithmetic-Menu-Driven-Application</b></a>
-      <br/><br/>
-      Menu-driven app for arithmetic operations
-      <br/><br/>
+      <h4>🧮 <a href="https://github.com/chavananand522/Arithmetic-Menu-Driven-Application">Arithmetic-Menu-Driven-Application</a></h4>
+      <p>Menu-driven app for arithmetic operations</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      📁 <a href="https://github.com/chavananand522/Currency-Converter"><b>Currency-Converter</b></a>
-      <br/><br/>
-      Converts amounts between currencies
-      <br/><br/>
+      <h4>💱 <a href="https://github.com/chavananand522/Currency-Converter">Currency-Converter</a></h4>
+      <p>Converts amounts between currencies</p>
     </td>
     <td width="50%" valign="top">
-      📁 <a href="https://github.com/chavananand522/GitHub-Profile-Card"><b>GitHub-Profile-Card</b></a>
-      <br/><br/>
-      Profile card showcasing GitHub information
-      <br/><br/>
+      <h4>🌐 <a href="https://github.com/chavananand522/GitHub-Profile-Card">GitHub-Profile-Card</a></h4>
+      <p>Profile card showcasing GitHub information</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      📁 <a href="https://github.com/chavananand522/Edusity--Education-Website"><b>Edusity--Education-Website</b></a>
-      <br/><br/>
-      Education website built with React
-      <br/><br/>
+      <h4>🎓 <a href="https://github.com/chavananand522/Edusity--Education-Website">Edusity--Education-Website</a></h4>
+      <p>Education website built with React</p>
     </td>
     <td width="50%" valign="top">
-      📁 <a href="https://github.com/chavananand522/Student-Management-System"><b>Student-Management-System</b></a>
-      <br/><br/>
-      Spring Boot student and course management
-      <br/><br/>
+      <h4>🏫 <a href="https://github.com/chavananand522/Student-Management-System">Student-Management-System</a></h4>
+      <p>Spring Boot student and course management</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      📁 <a href="https://github.com/chavananand522/Student-Grade-Calculator"><b>Student-Grade-Calculator</b></a>
-      <br/><br/>
-      Calculates student grades from marks
-      <br/><br/>
+      <h4>📝 <a href="https://github.com/chavananand522/Student-Grade-Calculator">Student-Grade-Calculator</a></h4>
+      <p>Calculates student grades from marks</p>
     </td>
     <td width="50%" valign="top">
-      📁 <a href="https://github.com/chavananand522/ATM-Simulation-System"><b>ATM-Simulation-System</b></a>
-      <br/><br/>
-      Java-based ATM simulation
-      <br/><br/>
+      <h4>🏧 <a href="https://github.com/chavananand522/ATM-Simulation-System">ATM-Simulation-System</a></h4>
+      <p>Java-based ATM simulation</p>
     </td>
   </tr>
 </table>
