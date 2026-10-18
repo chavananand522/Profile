@@ -42,80 +42,34 @@
 
 ### 🚀 My Projects
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <!-- Change repo name if different -->
-      <a href="https://github.com/chavananand522/GitHub-Profile-Card">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=GitHub-Profile-Card&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="GitHub Profile Card" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/chavananand522/Student-Management-System">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Student-Management-System&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Student Management System" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/chavananand522/ATM-Simulation-System">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=ATM-Simulation-System&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="ATM Simulation System" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/chavananand522/Student-Grade-Calculator">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Student-Grade-Calculator&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Student Grade Calculator" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/chavananand522/JavaScript-Revision">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=JavaScript-Revision&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="JavaScript Revision" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/chavananand522/Java-Revision">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Java-Revision&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Java Revision" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <!-- Change repo name if different -->
-      <a href="https://github.com/chavananand522/Currency-Converter">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Currency-Converter&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Currency Converter" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <!-- Change repo name if different -->
-      <a href="https://github.com/chavananand522/Arithmetic-Calculator">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Arithmetic-Calculator&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Arithmetic Calculator" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <!-- Change repo name if different -->
-      <a href="https://github.com/chavananand522/Menu-Driven-Program">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Menu-Driven-Program&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Menu-Driven Program" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <!-- Change repo name if different -->
-      <a href="https://github.com/chavananand522/Pizza-Case-Study">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Pizza-Case-Study&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Pizza Case Study" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/chavananand522/React-Js">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=React-Js&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Edusity" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/chavananand522/GitHub-Profile-Card"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=GitHub-Profile-Card&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="GitHub Profile Card" /></a>
+  <a href="https://github.com/chavananand522/Student-Management-System"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Student-Management-System&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Student Management System" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chavananand522/ATM-Simulation-System"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=ATM-Simulation-System&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="ATM Simulation System" /></a>
+  <a href="https://github.com/chavananand522/Student-Grade-Calculator"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Student-Grade-Calculator&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Student Grade Calculator" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chavananand522/JavaScript-Revision"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=JavaScript-Revision&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="JavaScript Revision" /></a>
+  <a href="https://github.com/chavananand522/Java-Revision"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Java-Revision&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Java Revision" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chavananand522/Currency-Converter"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Currency-Converter&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Currency Converter" /></a>
+  <a href="https://github.com/chavananand522/Arithmetic-Calculator"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Arithmetic-Calculator&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Arithmetic Calculator" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chavananand522/Menu-Driven-Program"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Menu-Driven-Program&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Menu-Driven Program" /></a>
+  <a href="https://github.com/chavananand522/Pizza-Case-Study"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=Pizza-Case-Study&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Pizza Case Study" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chavananand522/React-Js"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=React-Js&theme=tokyonight&border_radius=15&show_owner=false&description_lines_count=2" alt="Edusity" /></a>
+</p>
 
 ---
 
