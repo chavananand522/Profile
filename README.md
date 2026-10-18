@@ -1,3 +1,4 @@
+
 # Hi, I'm Anand Chavan 👋
 
 <img align="right" alt="Coding Animation" width="300" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
@@ -71,6 +72,17 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/chavananand522/ATM-Simulation-System"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=chavananand522&repo=ATM-Simulation-System&theme=tokyonight&border_radius=12&show_owner=false&description_lines_count=1" alt="ATM Simulation System" /></a>
 </p>
+
+| Project | Description |
+| ---------------------------------- | ------------------------------------------ |
+| [PIZZA-CASE-STUDY](https://github.com/chavananand522/PIZZA-CASE-STUDY) | Practice project on pizza ordering |
+| [Arithmetic-Menu-Driven-Application](https://github.com/chavananand522/Arithmetic-Menu-Driven-Application) | Menu-driven app for arithmetic operations |
+| [Currency-Converter](https://github.com/chavananand522/Currency-Converter) | Converts amounts between currencies |
+| [GitHub-Profile-Card](https://github.com/chavananand522/GitHub-Profile-Card) | Profile card showcasing GitHub information |
+| [Edusity--Education-Website](https://github.com/chavananand522/Edusity--Education-Website) | Education website built with React |
+| [Student-Management-System](https://github.com/chavananand522/Student-Management-System) | Spring Boot student and course management |
+| [Student-Grade-Calculator](https://github.com/chavananand522/Student-Grade-Calculator) | Calculates student grades from marks |
+| [ATM-Simulation-System](https://github.com/chavananand522/ATM-Simulation-System) | Java-based ATM simulation |
 
 ---
 
